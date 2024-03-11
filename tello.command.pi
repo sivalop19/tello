@@ -1,1 +1,3 @@
 print "hola mundo"
+X = 5*10
+print(X)
